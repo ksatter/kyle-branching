@@ -23,5 +23,7 @@ $.ajax({
         $card.append($img, $cBody)
 
         $("#gifs").append($card)
+
+        //Here is my comment
     }
   });
